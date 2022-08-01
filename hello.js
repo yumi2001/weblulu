@@ -7,3 +7,6 @@ console.log("lulu子分支");
 console.log("=========");
 console.log("主分支");
 console.log("=========");
+console.log("==========");
+console.log("child");
+console.log("==========");
